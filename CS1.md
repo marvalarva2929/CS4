@@ -21,6 +21,10 @@ While you can't built a website using your hands, you can using a computer! All 
 HTML stands for "Hyper Text Markup Language", but you don't need to remember that in order to build your own website.
 
 All you need to know in order to make a website using HTML is tags. HTML tags are used to create parts of a webiste, like pictures and words.
+
+Building a website is pretty hard, so the computer will do it for you. You only need to tell it what to do.
+Tags are the way you can tell the the computer what you want. They tell the computer what to put on your website.
+
 Here are some examples of tags:
 
 *<p></p> - The paragraph tag. This adds words to your website
